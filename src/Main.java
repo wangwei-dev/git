@@ -19,7 +19,6 @@ public class Main {
         System.out.println(map.get("1"));
 
         System.out.println("2小组变动!");
-        System.out.println("3小组变动!");
         System.out.println("4小组变动!");
 
         //我添加了新的代码
