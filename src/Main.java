@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class Main {
@@ -21,11 +23,6 @@ public class Main {
         System.out.println("4小组变动!");
 
         //我添加了新的代码
-        /*if ("" == "") {
-            System.out.println("true");
-        }else {
-            System.out.println(false);
-        }*/
 
         //System.out.println("5小组变动!");*/
 
@@ -38,5 +35,9 @@ public class Main {
                 word = "bootle";
             }
         }
+
+        //添加了ArrayList相关代码
+        List<String> list = new ArrayList<>();
+        System.out.println(list);
     }
 }
