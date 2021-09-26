@@ -24,7 +24,6 @@ public class Main {
 
         //我添加了新的代码
 
-        System.out.println("5小组变动!");
 
         //添加了1行注释
 
