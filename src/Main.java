@@ -14,7 +14,7 @@ public class Main {
         //我添加的新代码
         Map<String, String> map = new HashMap<>();
         map.put("1", "1");
-        map.put("2", "1");
+        map.put("2222", "2222");
         map.put("3", "3");
         System.out.println(map.get("1"));
 
