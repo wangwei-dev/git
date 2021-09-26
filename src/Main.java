@@ -30,5 +30,13 @@ public class Main {
         System.out.println("5小组变动!");
 
         //添加了1行注释
+
+        int beernum = 99;
+        String word = "bottle";
+        while (beernum > 0) {
+            if (beernum == 1) {
+                word = "bootle";
+            }
+        }
     }
 }
