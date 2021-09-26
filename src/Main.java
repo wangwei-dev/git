@@ -24,6 +24,8 @@ public class Main {
 
         //我添加了新的代码
 
+        //新的改动
+
         System.out.println("5小组变动!");
 
         //添加了1行注释
@@ -35,6 +37,8 @@ public class Main {
                 word = "bootle";
             }
         }
+
+        //新的改动
 
         //添加了ArrayList相关代码
         List<String> list = new ArrayList<>();
