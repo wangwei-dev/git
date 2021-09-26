@@ -13,7 +13,7 @@ public class Main {
 
         //我添加的新代码
         Map<String, String> map = new HashMap<>();
-        map.put("1", "12");
+        map.put("1", "112");
         System.out.println(map.get("1"));
 
         System.out.println("2小组变动!");
