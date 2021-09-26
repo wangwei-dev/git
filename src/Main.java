@@ -13,7 +13,7 @@ public class Main {
 
         //我添加的新代码
         Map<String, String> map = new HashMap<>();
-        map.put("1", "1156565256565656454545");
+        map.put("1", "11565652454545");
         System.out.println(map.get("1"));
 
         System.out.println("2小组变动!");
@@ -22,6 +22,9 @@ public class Main {
         //我添加了新的代码
 
         //新的改动
+
+        //新的改动21213
+        //按时符大师傅的
 
         System.out.println("5小组变动!");
 
