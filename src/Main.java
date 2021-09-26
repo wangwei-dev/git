@@ -21,11 +21,11 @@ public class Main {
         System.out.println("4小组变动!");
 
         //我添加了新的代码
-        if ("" == "") {
+        /*if ("" == "") {
             System.out.println("true");
         }else {
             System.out.println(false);
-        }
+        }*/
 
         System.out.println("5小组变动!");
 
